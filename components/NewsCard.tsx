@@ -33,6 +33,7 @@ const CardWrapper = styled("div", {
   width: "300px",
   margin: "10px",
   position: "relative",
+  cursor: "pointer",
   "& .delete-button": {
     visibility: "hidden",
     opacity: 0,
